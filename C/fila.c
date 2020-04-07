@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*Estrutura de dados Fila: O primeiro que entra é o primeiro que sai(First in, first out)*/
+/*By: Isaias do Carmo
+Estrutura de dados Fila: O primeiro que entra é o primeiro que sai(First in, first out)*/
 
 typedef struct lista Lista;
 typedef struct fila Fila;
